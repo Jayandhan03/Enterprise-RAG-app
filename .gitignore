@@ -1,0 +1,59 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.envrc
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# MyPy / Pyright / Pylint
+.mypy_cache/
+.pytype/
+.pyright/
+.pylint.d/
+
+# Test coverage reports
+htmlcov/
+.coverage
+coverage.xml
+.cache
+
+# Datasets / Large files (if any)
+data/
+datasets/
+outputs/
+checkpoints/
+models/
+
+# LangChain specific (if you're using local caching)
+langchain.db
+langchain_logs/
+
+# Jupyter nbconvert
+*.nbconvert.ipynb
+
+# Pydantic compiled models
+__pydantic__/ 
