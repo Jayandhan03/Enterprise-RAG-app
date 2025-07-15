@@ -1,0 +1,5 @@
+2025-07-15 11:58:54 | DEBUG | RAGBot | This is a DEBUG message - useful for dev tracing.
+2025-07-15 11:58:54 | INFO | RAGBot | This is an INFO message - good for successful events.
+2025-07-15 11:58:54 | WARNING | RAGBot | This is a WARNING - something unexpected happened.
+2025-07-15 11:58:54 | ERROR | RAGBot | This is an ERROR - something went wrong but app runs.
+2025-07-15 11:58:54 | CRITICAL | RAGBot | This is a CRITICAL error - app might crash.

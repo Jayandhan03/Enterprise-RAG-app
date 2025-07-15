@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+openai
+tiktoken
+chromadb
+langchainhub
+langserve
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
